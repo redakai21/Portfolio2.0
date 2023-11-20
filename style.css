@@ -8,6 +8,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    text-decoration:none;
 }
 html{
     scroll-behavior: smooth;
