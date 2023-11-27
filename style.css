@@ -166,6 +166,7 @@ section{
 }
 .section__text__p1{
     text-align: center;
+    padding-top: 12vh;
 }
 .section__text__p2{
     font-size: 1.7rem;
